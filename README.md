@@ -13,14 +13,14 @@ Hope you like this project !!!
 ## Demo
 <img width="960" alt="" src="https://raw.githubusercontent.com/roypam/Developer-Landingpage-Project-IX/main/9.png">
 
-## Run Locallyhttps://developer-landing-2022.netlify.app/#
+## Run Locally
 
 Clone the project
 
 ```bash
   git clone https://github.com/roypam/Developer-Landingpage-Project-IX.git
 ```
-## Deployed Link - 
+## Deployed Link
   [Click Me](https://developer-landing-2022.netlify.app)
 
 ## Author and Contact
