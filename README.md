@@ -20,7 +20,7 @@ Clone the project
 ```bash
   git clone https://github.com/roypam/Developer-Landingpage-Project-IX.git
 ```
-## Deployed Link
+## Deployed Link (Hosted in Netlify)
   [Click Me](https://developer-landing-2022.netlify.app)
 
 ## Author and Contact
